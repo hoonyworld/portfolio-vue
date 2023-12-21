@@ -29,4 +29,4 @@ npm run build
 ```
 
 ### 포트폴리오 링크
-https://www.hoonyworld.github.io
+https://hoonyworld.github.io/
